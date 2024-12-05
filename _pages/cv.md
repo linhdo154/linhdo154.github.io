@@ -9,37 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
+The lastest version of my CV can be found in here [CV](https://drive.google.com/file/d/1PfE8QC10gExWCT7rp1bImy4XCJplvhno/view?usp=sharing).
+
+Here is a brief information
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Doctor of Philosophy in Applied Mathematics, Tulane University, 2025 (expected)
+* Bachelor in Mathematics Teacher Education, Vietnam National University - University of Education, 2017
 
-Work experience
+Work experiencep
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2019 - Present: PhD Candidate/ Graduate Teaching Associate/ Graduate Research Assistant
+  * Tulane University - Department of Mathematics
+  * Duties includes: 
+     * Working at the Stochastic Lab of Professor Scott A. McKinley as a research assistant. Conducted research
+in several fields, including particle tracking, changepoint detection algorithms, Bayesian statistics, model selections, and Mixtures of models. Solved various mathematical and statistical problems using Python, R, Matlab, and LaTeX. 
+     * Developed course materials and provided instruction both in and out of Instructure’s Canvas LMS for various subjects, including Statistics for Scientists and Probability and Statistics. Integrated external tools like WebAssign and MyLab into Canvas LMS.
+  * Supervisor: [Scott A. McKinley](https://www.stochastics-lab.net/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017 - 2019: Lecturer
+  * Vietnam National University - University of Science
+  * Duties included: 
+     * Developed course materials for subjects including Statistics and Probability, Calculus 1,2,3, and Linear Algebra.
+     * Conducted data analysis to interpret research on the geography of climate change adaptation using
+statistical structural models.
+  * Supervisor: [Quoc Anh Trinh](http://mim.hus.vnu.edu.vn/en/canbo/anhtq)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, R, LaTex, Maple, SQL, MatLab, Microsoft Office.
+* Languages: Strong reading, writing and speaking competencies for English and Vietnamese.
+ 
 
 Publications
 ======
@@ -59,6 +61,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
