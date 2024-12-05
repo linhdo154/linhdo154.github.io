@@ -8,7 +8,7 @@ date: 2021-01-23
 location: "New Orleans, LA, US"
 ---
 
-I served as a Teaching Assistant for MATH1230 for over four semesters, during which I taught two classes per semester (Fall 2019, Spring 2020, Fall 2020, Spring 2021). My responsibilities included delivering lectures, clarifying statistical concepts, guiding practical implementation, leading problem-solving sessions, grading assignments, and providing individualized support to students to enhance their understanding of course material. 
+I served as a Teaching Assistant for MATH1230 for over six semesters, during which I taught 10 classes (Fall 2019, Spring 2020, Fall 2020, Spring 2021, Summer 2021, Summer 2022). Students came from diverse backgrounds, including mathematics, chemistry, economics, physics, computer science, biology, and psychology. My responsibilities included delivering lectures, clarifying statistical concepts, guiding practical implementation, leading problem-solving sessions, grading assignments, and providing individualized support to help students enhance their understanding of the course material. 
 
 The aims of the course including:
 

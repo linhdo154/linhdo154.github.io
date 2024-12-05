@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses Calculus I, II, III"
 permalink: /teaching/2014-fall-teaching-1
 venue: "Vietnam National University, Department of Mathematics and Statistics"
-date: 2019-07-15
+date: 2018-07-15
 location: "Hanoi, Vietnam"
 ---
 I taught three calculus courses to undergraduate students majoring in Mathematics in three semesters (Fall 2017, Spring 2018, and Fall 2018). These courses provided students with core mathematical knowledge: limits, derivatives, integrals, and infinite series.
