@@ -18,7 +18,7 @@ Education
 * Doctor of Philosophy in Applied Mathematics, Tulane University, 2025 (expected)
 * Bachelor in Mathematics Teacher Education, Vietnam National University - University of Education, 2017
 
-Work experiencep
+Work experience
 ======
 * 2019 - Present: PhD Candidate/ Graduate Teaching Associate/ Graduate Research Assistant
   * Tulane University - Department of Mathematics
