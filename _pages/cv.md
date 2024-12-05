@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-The lastest version of my CV can be found in here [CV](https://drive.google.com/file/d/1PfE8QC10gExWCT7rp1bImy4XCJplvhno/view?usp=sharing).
+The lastest version of my CV can be found in here [CV](https://drive.google.com/file/d/1Q1qKEfDjLKKYVhqR-Eo-dOzIaiv-y89T/view?usp=sharing).
 
 Here is a brief information
 
