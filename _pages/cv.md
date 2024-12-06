@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-The lastest version of my CV can be found in here [CV](https://Ldo3.github.io/files/CV_Linh_2024.pdf).
+The lastest version of my CV can be found here [CV](https://Ldo3.github.io/files/CV_Linh_2024.pdf).
 
 Here is a brief information
 
