@@ -13,4 +13,4 @@ I served as an Instructor for MATH1110 during the summer course 2024. My respons
 
 The course covers: Elementary probability theory and statistics with applications; random variables; distributions including a thorough discussion of the binomial, Poisson, and normal distributions; central limit theorem; histograms; sampling distributions; confidence intervals; tests of hypotheses; linear models; regression.
 
-Course syllabus can be found here [Course Syllabus](https://drive.google.com/file/d/1NWIMm7nRUZOlurbrbJqDwFILea-vuJUP/view?usp=sharing).
+Course syllabus can be found here [Course Syllabus](https://Ldo3.github.io/files/2024SummerCourseSyllabusProbandStatsI.pdf).
