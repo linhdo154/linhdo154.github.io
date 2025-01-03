@@ -4,7 +4,7 @@ heterogeneous response"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Submitted to publication in Electronic Journal of Statistics.'
+excerpt: 'Accepted to publication in Electronic Journal of Statistics.'
 date: 2023-01-28
 venue: 'ArXiv'
 paperurl: 'https://arxiv.org/pdf/2212.04091'
