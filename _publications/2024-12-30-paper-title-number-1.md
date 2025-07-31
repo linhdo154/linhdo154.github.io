@@ -3,7 +3,7 @@ title: "Considering experimental frame rates and robust segmentation analysis of
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Submitted to publication in Mathematical Biosciences and Engineering'
+excerpt: 'Accepted for publication in Mathematical Biosciences and Engineering'
 date: 2024-12-30
 venue: 'ArXiv'
 paperurl: 'https://arxiv.org/pdf/2412.21025'

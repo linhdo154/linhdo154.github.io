@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 
-<iframe src="/files/CV_Linh_2024.pdf" width="100%" height="800px" style="border: none;"></iframe>
+<iframe src="https://linhdo154.github.io/files/CV_Linh_2024.pdf" width="100%" height="800px" style="border: none;"></iframe>
 
-<p>You can download a PDF copy of my CV <a href="/files/CV_Linh_2024.pdf" download>here</a>.</p>
+<p>You can download a PDF copy of my CV <a href="https://linhdo154.github.io/files/CV_Linh_2024.pdf" download>here</a>.</p>
