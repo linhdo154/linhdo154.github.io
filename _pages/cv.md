@@ -10,4 +10,4 @@ redirect_from:
 
 <iframe src="https://linhdo154.github.io/files/CV_Linh_2024.pdf" width="100%" height="800px" style="border: none;"></iframe>
 
-<p>You can download a PDF copy of my CV <a href="https://linhdo154.github.io/files/CV_Linh_2024.pdf" download>here</a>.</p>
+<p>A PDF copy of my CV is availabled here <a href="https://linhdo154.github.io/files/CV_Linh_2024.pdf" download>here</a>.</p>
