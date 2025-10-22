@@ -5,19 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-## Research Interests
-
-- Mathematical and Statistical Modeling
-
-- Hierarchical Models
-
-- Bayesian Inference
-
-- Empirical Bayes.
-
-- Change-Point Analysis
-
-- Intracellular Transport.
 
 ## Publications and Preprints 
 
