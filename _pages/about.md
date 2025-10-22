@@ -7,10 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I’m Linh Do, a PhD in Mathematics graduated from the Department of Mathematics at Tulane University, New Orleans, Louisiana. 
-I am advised by Professor [Scott A. McKinley](https://www.stochastics-lab.net/).
-My research focuses on particle tracking, changepoint detection algorithms, 
-Bayesian statistics, model selection, and mixtures of models, 
-with the goal of advancing innovative methods in applied mathematics and statistics.
+I’m Linh Do, a Ph.D. graduate in Mathematics from Tulane University, advised by Professor [Scott A. McKinley](https://www.stochastics-lab.net/)
+. I currently work as a Research Scientist in the [Stochastic Lab](https://www.stochastics-lab.net/)
+, focusing on intracellular transport, neuroimaging, and latent modeling in biological systems.
 
-Feel free to explore my work or reach out—I’d love to connect!
+---
+
+**Research Interests**
+
+- Mathematical and Statistical Modeling
+
+- Hierarchical Models
+
+- Bayesian Inference
+
+- Empirical Bayes
+
+- Change-Point Analysis
+
+- Intracellular Transport
+
+

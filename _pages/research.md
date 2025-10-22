@@ -17,7 +17,7 @@ author_profile: true
 
 - Change-Point Analysis
 
-- Intracellular Transport, Machine Learning.
+- Intracellular Transport.
 
 ## Publications and Preprints 
 
