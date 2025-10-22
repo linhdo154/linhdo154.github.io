@@ -7,19 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I’m Linh Do, a Ph.D. graduate in Mathematics from Tulane University, advised by Professor [Scott A. McKinley](https://www.stochastics-lab.net/)
-. I currently work as a Research Scientist in the [Stochastic Lab](https://www.stochastics-lab.net/)
-, focusing on intracellular transport, neuroimaging, and latent modeling in biological systems.
+I’m Linh Do, a Ph.D. graduate in Mathematics from Tulane University, advised by Professor [Scott A. McKinley](https://www.stochastics-lab.net/). I currently work as a Research Scientist in the [Stochastic Lab](https://www.stochastics-lab.net/),
+focusing on statistical modeling with applications in intracellular transport, neuroimaging, and biological systems.
 
 ---
 
 **Research Interests**
 
-- Mathematical and Statistical Modeling
-
-- Hierarchical Models
-
-- Bayesian Inference
+- Bayesian Hierarchical Models
 
 - Empirical Bayes
 
