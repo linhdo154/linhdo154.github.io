@@ -26,11 +26,11 @@ author_profile: true
 
  
 - **Linh Do**, Dat Do, Keisha J. Cook, Nathan Rayens, Christine K. Payne, Scott A. McKinley (2025).  **Change-in-velocity detection for multidimensional data**, To be submitted to *Journal of Computational and Graphical Statistics.*
-[[preprint]](https://linhdo154.github.io/files/Change-in-velocity.pdf)[[code]](https://ldo3.github.io/CPLASS/).  
+[[preprint]](https://linhdo154.github.io/files/Change-in-velocity.pdf)[[code]](https://github.com/Ldo3/CPLASS)[[website]](https://ldo3.github.io/CPLASS/).  
 
 
 - Dat Do, **Linh Do**, Scott A. McKinley, XuanLong Nguyen, Jonathan Terhorst (2024). **Dendrogram of mixing measures: Hierarchical Clustering and model selection for finite mixture models**. Under review at *Biometrika.* 
-[[arxiv]](https://arxiv.org/pdf/2403.01684) [[code]](https://ldo3.github.io/dendroMix/index.html).  
+[[arxiv]](https://arxiv.org/pdf/2403.01684) [[code]](https://github.com/Ldo3/dendroMix) [[website]](https://ldo3.github.io/dendroMix/index.html).  
 
 
   
